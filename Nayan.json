@@ -7,13 +7,13 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "MAHABUB-BOT",
-  "PREFIX": "/",
+  "PREFIX": ",",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "61564959257681",
+    "100075133524968",
     ""
   ],
   "OWNER": ["100000959749712"], 
